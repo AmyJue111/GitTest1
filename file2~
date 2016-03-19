@@ -1,5 +1,9 @@
 This is the second test file.
 
-Add it to the repository
+<<<<<<< HEAD
+Add it to the repository and not exit...
+=======
+Add it to the repository and then exit
+>>>>>>> 5debec7e51ebd79c1ce0df23b6396d4dc53da7a5
 
 Add a new line
